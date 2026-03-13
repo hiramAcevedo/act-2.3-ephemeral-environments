@@ -1,0 +1,19 @@
+{
+  "name": "ephemeral-env-demo",
+  "version": "1.0.0",
+  "description": "Demo de ambientes efimeros - Actividad 2.3 LDSW UDG",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["ephemeral", "environments", "demo"],
+  "author": "Hiram Agustin Acevedo Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
