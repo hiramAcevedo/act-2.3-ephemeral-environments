@@ -10,10 +10,14 @@
   "engines": {
     "node": ">=18.0.0"
   },
-  "keywords": ["ephemeral", "environments", "demo"],
+  "keywords": [
+    "ephemeral",
+    "environments",
+    "demo"
+  ],
   "author": "Hiram Agustin Acevedo Lopez",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^4.22.1"
   }
 }
